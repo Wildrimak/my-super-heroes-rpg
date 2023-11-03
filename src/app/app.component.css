@@ -1,0 +1,21 @@
+app-root {
+    margin-top: 60px;
+    color: blue;
+}
+header,
+footer {
+    background-color: #000;
+    color: #cffd15;
+    text-align: center;
+    padding: 1% 0;
+    width: 100%;
+    position: fixed;
+}
+
+header {
+    top: 0;
+}
+
+footer {
+    bottom: 0;
+}
